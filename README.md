@@ -1,2 +1,2 @@
-# Leetcode
+# LeetCode
 Upload daily leetcode questions 
