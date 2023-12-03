@@ -1,1 +1,2 @@
-​
+ # Solution
+this is generally an eseay problem all i did is that i iterated throught the list points and what i did is simply calculated the time that will take me to travese from point a to point b and this is ​simply calculated by calculating the maximum .WHY do you ask well lets take the two point [1,1] and  [2,3] for example the time it will take i to go from 1 to 2 is simply 1 but the j should take 2 to traverse from 1 to 3 hence the time needed to go from point a to point b is the maximum between the time taken by i and j.
