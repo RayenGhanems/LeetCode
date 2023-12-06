@@ -1,1 +1,1 @@
-​
+i simply counted the number of weeks and incremented i to reach it and each time i increment i i ad the output by 28(the amount paid each week) + 7*i (which is the amount aded each week on monday it is *7 since this increment is added to all the 7 days) and then i simply return the out with the number of week * by the number of the days left(7 in the cas of a full week) and then added the number the amount he should pay each day from mon to the n%7.​
