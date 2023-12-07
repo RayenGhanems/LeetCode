@@ -1,1 +1,1 @@
-the largest number will be the number with most number of integers in it hence we should start from the last character of the string moving backwards. to know if a number is odd check int(num[i​]) %2 !=0 or num[i] not in "24680" while i is the last integer of this number. and if it was even then remove this number and try again.
+
