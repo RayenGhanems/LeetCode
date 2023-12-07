@@ -1,1 +1,1 @@
-​
+odd number is simply the number with the last integer not even . ther is 2 ways to approach this one is to check of int(num[i])%2!=0 and the other is to see if nums[i] not in "24680" the first is slower but takes less space the other is the opposit while it should not be a great difference . if the last integer was even we check the integer before it...​
