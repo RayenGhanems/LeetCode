@@ -1,1 +1,1 @@
-​
+what i did was i created a function called dfs wich works as a normal dfs and allways wants to look left first and what i did is i look left if there exists anything at fist i write ists value and then i open the ( after i go back to the dfs function again if nothing is ther just return nothing and after that i will close the paranthesis. then I will look at the right side ​and do the exact same thing. 
