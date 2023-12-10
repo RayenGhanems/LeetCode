@@ -1,1 +1,1 @@
-​
+well this is the fastes way to in my opinion . it is either using numpy or iterating throu the list and change eacj i,j by j,i for all j>i this would also work. But numpy is always better. I believe it gave a poor result just for the simple reason of importing the library and recopiying to list into an np array bu in a sence this would be already done in our main code then in that case useing numpy would be the fastest obtion​
