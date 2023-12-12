@@ -1,1 +1,1 @@
-​
+No much need for an explenation in here. the maximum return for a (number1 -1)*(number2 -1)​ is basically just searching for the largest 2 numbers in this array. I believe this is the fastes way to this jusb because i am not performing the multiplication except once not like the 2 pointers method, and the sorting of the array sure it takes O(n.log(n)) but there is no way around it. if not one would need to do 2 for loops and then boom O(n^2) + add to that all the multiplications and the checking. 
