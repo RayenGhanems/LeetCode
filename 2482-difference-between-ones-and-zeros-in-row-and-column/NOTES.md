@@ -1,31 +1,13 @@
-# Project Title
+# Code Explanation
 
-## Code Explanation
+The `onesMinusZeros` method in the `Solution` class takes a 2D grid as input and modifies it. Here's a step-by-step breakdown:
 
-The `Solution` class contains a method called `onesMinusZeros` that takes a 2D grid as input and modifies it based on the count of ones in each row and column.
+1. Initialize variables `m` and `n` with the number of rows and columns in the grid, respectively.
+2. Create two arrays, `row_ones` and `col_ones`, to store the count of ones in each row and column.
+3. Iterate through the grid, updating `row_ones` and `col_ones` with the count of ones in each row and column.
+4. Update the grid elements based on a calculation involving the counts stored in `row_ones` and `col_ones`.
+   - For each element at position `(i, j)` in the grid, set its value to `2 * (row_ones[i] + col_ones[j]) - m - n`.
+5. Return the modified grid.
 
-### Installation
+In summary, the method calculates the difference between the counts of ones in rows and columns and updates the grid accordingly. The resulting grid reflects a transformation based on the distribution of ones in the original grid.
 
-No installation is required for this code snippet.
-
-### Usage
-
-To use the `onesMinusZeros` method:
-
-```python
-# Instantiate the Solution class
-solution_instance = Solution()
-
-# Provide a 2D grid as input
-input_grid = [
-    [1, 0, 1],
-    [0, 1, 0],
-    [1, 0, 1]
-]
-
-# Call the onesMinusZeros method
-result = solution_instance.onesMinusZeros(input_grid)
-
-# 'result' now contains the modified grid
-print(result)
-​
