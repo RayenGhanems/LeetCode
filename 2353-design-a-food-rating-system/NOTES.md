@@ -9,4 +9,4 @@
   1. Retrieves the highest-rated food for a specified cuisine in lexicographical order.
   2. Iterates through the heap of the specified cuisine, considering the lexicographically smallest food with the highest rating.
   3. Skips outdated data by comparing the stored rating with the rating on the heap.
-Returns the name of the highest-rated food in the specified cuisine.​
+  4. Returns the name of the highest-rated food in the specified cuisine.​
