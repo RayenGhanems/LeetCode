@@ -4,7 +4,7 @@ class Solution(object):
         two = prices[1]
 
         for i in prices[2:]:
-            if i < max(one,two):
+            if i < one or i < two:
                 if one>two:
                     one=i
                 else:
