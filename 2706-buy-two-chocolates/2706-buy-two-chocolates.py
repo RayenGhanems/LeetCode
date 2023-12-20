@@ -10,6 +10,5 @@ class Solution(object):
                 else:
                     two =i
 
-        result = money if (one + two) > money else money - (one + two)
-        return result
+        return money if (one + two) > money else money - (one + two)
 
