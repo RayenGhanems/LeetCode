@@ -1,4 +1,4 @@
-# Eplenatiotn:
+# Explenation:
 # Function dfs: #
 the the soul of this algo. it basically :
 . goes right when node we are standing on is lower than the high argument (since if the node is higher than the high then node.right​ is also greater being thatn .right leads to a greater number than node)
