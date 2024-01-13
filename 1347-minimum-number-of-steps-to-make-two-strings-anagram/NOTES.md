@@ -1,2 +1,1 @@
-# Explenation:
-First thing i thought of was to create 2 dictionaries and compaire them "Which would work" but would take alot more memory. So i decided to only take one dictionary `dicts` and iterate first throught `s` and count all the letters then iterate second time to `t` but insted of counting the letters we just check if this leter in `t` exists in `s` if yes we remove one from the `dicts` "Basically thats a letter that doesnt need swaping" and contineu doing that until `dicts[char]=0` since if that hapens then we have too much of the same letter which eventually will leed us to swap it eventually.and at the end we return the sum of the `dicts` values.​
+​
