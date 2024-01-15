@@ -7,9 +7,9 @@ class Solution(object):
             if i[0] not in wins:
                 wins[i[0]] = 1
             if i[1] in losses:
-                losses[i[1]] -= 1
+                losses[i[1]] += 1
             else:
-                losses[i[1]] = 0
+                losses[i[1]] = 1
 
         win = []
         one_loss = []
@@ -18,7 +18,7 @@ class Solution(object):
             if i not in losses :
                 win.append(i)
         for i in losses.keys():
-            if losses[i]==0:
+            if losses[i]==1:
                 one_loss.append(i)
         win.sort()
         one_loss.sort()
