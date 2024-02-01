@@ -7,4 +7,5 @@ class Solution(object):
             if num[-1]-num[0] > k:
                 return []
             out.append(num)
-        return out   
+        return out
+        
