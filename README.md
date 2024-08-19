@@ -83,4 +83,12 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RayenGhanems/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
