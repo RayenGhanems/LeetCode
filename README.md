@@ -9,6 +9,7 @@ Upload daily leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RayenGhanems/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RayenGhanems/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/RayenGhanems/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -110,4 +111,16 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
