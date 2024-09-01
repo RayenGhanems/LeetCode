@@ -15,6 +15,7 @@ Upload daily leetcode questions
 | [1720-crawler-log-folder](https://github.com/RayenGhanems/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/RayenGhanems/LeetCode/tree/master/1803-average-waiting-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RayenGhanems/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RayenGhanems/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ Upload daily leetcode questions
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1803-average-waiting-time](https://github.com/RayenGhanems/LeetCode/tree/master/1803-average-waiting-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RayenGhanems/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RayenGhanems/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
 |  |
@@ -93,6 +95,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RayenGhanems/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/RayenGhanems/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
