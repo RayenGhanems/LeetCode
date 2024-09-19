@@ -70,6 +70,7 @@ Upload daily leetcode questions
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RayenGhanems/LeetCode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RayenGhanems/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -114,12 +115,14 @@ Upload daily leetcode questions
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/RayenGhanems/LeetCode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
@@ -168,4 +171,12 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RayenGhanems/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
