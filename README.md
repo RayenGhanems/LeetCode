@@ -70,6 +70,7 @@ Upload daily leetcode questions
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/RayenGhanems/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RayenGhanems/LeetCode/tree/master/0664-strange-printer) |
@@ -179,4 +180,16 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RayenGhanems/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RayenGhanems/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RayenGhanems/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
