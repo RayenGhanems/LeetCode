@@ -13,6 +13,7 @@ Upload daily leetcode questions
 | [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RayenGhanems/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RayenGhanems/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/RayenGhanems/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/RayenGhanems/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -89,6 +90,7 @@ Upload daily leetcode questions
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RayenGhanems/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/RayenGhanems/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/RayenGhanems/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RayenGhanems/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
@@ -200,4 +202,8 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/RayenGhanems/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
