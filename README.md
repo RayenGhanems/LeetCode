@@ -6,6 +6,7 @@ Upload daily leetcode questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
 | [0303-range-sum-query-immutable](https://github.com/RayenGhanems/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0906-walking-robot-simulation](https://github.com/RayenGhanems/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -45,6 +46,7 @@ Upload daily leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/RayenGhanems/LeetCode/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -62,6 +64,7 @@ Upload daily leetcode questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RayenGhanems/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
