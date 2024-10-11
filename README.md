@@ -7,6 +7,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RayenGhanems/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/RayenGhanems/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -48,11 +49,13 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/RayenGhanems/LeetCode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RayenGhanems/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -180,6 +183,7 @@ Upload daily leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RayenGhanems/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RayenGhanems/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
