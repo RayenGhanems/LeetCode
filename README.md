@@ -76,6 +76,7 @@ Upload daily leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/RayenGhanems/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RayenGhanems/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -203,6 +204,7 @@ Upload daily leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
