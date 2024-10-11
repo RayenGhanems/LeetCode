@@ -28,6 +28,7 @@ Upload daily leetcode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/RayenGhanems/LeetCode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RayenGhanems/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RayenGhanems/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RayenGhanems/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RayenGhanems/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -48,6 +49,7 @@ Upload daily leetcode questions
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RayenGhanems/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RayenGhanems/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
@@ -181,6 +183,7 @@ Upload daily leetcode questions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2803-modify-graph-edge-weights](https://github.com/RayenGhanems/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
