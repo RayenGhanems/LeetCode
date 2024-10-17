@@ -82,6 +82,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
+| [0670-maximum-swap](https://github.com/RayenGhanems/LeetCode/tree/master/0670-maximum-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RayenGhanems/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -159,6 +160,7 @@ Upload daily leetcode questions
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/RayenGhanems/LeetCode/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
 ## Dynamic Programming
 |  |
