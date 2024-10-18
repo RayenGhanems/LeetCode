@@ -61,6 +61,7 @@ Upload daily leetcode questions
 | [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/RayenGhanems/LeetCode/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/RayenGhanems/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/RayenGhanems/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -116,6 +117,7 @@ Upload daily leetcode questions
 | [1720-crawler-log-folder](https://github.com/RayenGhanems/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RayenGhanems/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/RayenGhanems/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/RayenGhanems/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RayenGhanems/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
