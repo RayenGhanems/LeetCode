@@ -114,6 +114,7 @@ Upload daily leetcode questions
 | [0664-strange-printer](https://github.com/RayenGhanems/LeetCode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RayenGhanems/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/RayenGhanems/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RayenGhanems/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -128,6 +129,7 @@ Upload daily leetcode questions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RayenGhanems/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/RayenGhanems/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RayenGhanems/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/RayenGhanems/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -232,6 +234,7 @@ Upload daily leetcode questions
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/RayenGhanems/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 ## Memoization
 |  |
 | ------- |
