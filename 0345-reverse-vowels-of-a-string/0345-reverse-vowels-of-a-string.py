@@ -7,6 +7,8 @@ class Solution:
         for i in range(len(s)):
             if s[i] in v:
                 q.append(s[i])
+        if len(q)<=1:
+            return"".join(s)
         for i in range(len(s)):
             if s[i] in v:
                 s[i] = q.pop()
