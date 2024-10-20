@@ -61,6 +61,7 @@ Upload daily leetcode questions
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/RayenGhanems/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/RayenGhanems/LeetCode/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/RayenGhanems/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -112,6 +113,7 @@ Upload daily leetcode questions
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RayenGhanems/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/RayenGhanems/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RayenGhanems/LeetCode/tree/master/0664-strange-printer) |
