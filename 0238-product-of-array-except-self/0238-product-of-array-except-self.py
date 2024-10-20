@@ -3,17 +3,14 @@ class Solution:
 
         if nums.count(0) > 1:
             return [0]* len(nums)
+
         if nums.count(0) ==1:
             m = 1
             for i in nums:
                 if i != 0:
                     m*= i
-            out =[]
-            for i in nums:
-                if i != 0 :
-                    out.append(0)
-                else:
-                    out.append(int(m))
+            out =[0] * len(nums)
+            out[nums.index(0)] = m
             return out                    
 
 
@@ -22,8 +19,5 @@ class Solution:
             m*= i
         out =[]
         for i in nums:
-            if i != 0 :
-                out.append(int(m/i))
-            else:
-                out.append(int(m))
+            out.append(int(m/i))
         return out
