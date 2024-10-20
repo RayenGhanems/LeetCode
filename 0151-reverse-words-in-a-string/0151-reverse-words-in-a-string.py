@@ -11,7 +11,7 @@ class Solution:
 
         for i in s:
             if i ==" ":
-                if q != []:
+                if q:
                     out.append("".join(q)) 
                 if out[-1] != " ":
                     out.append(" ") 
