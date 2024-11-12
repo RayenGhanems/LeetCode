@@ -285,6 +285,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RayenGhanems/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0969-number-of-recent-calls](https://github.com/RayenGhanems/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RayenGhanems/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Sliding Window
 |  |
@@ -309,4 +310,12 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/RayenGhanems/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/RayenGhanems/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
