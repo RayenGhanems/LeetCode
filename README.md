@@ -60,6 +60,7 @@ Upload daily leetcode questions
 | [1798-max-number-of-k-sum-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RayenGhanems/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/RayenGhanems/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ Upload daily leetcode questions
 | [1894-merge-strings-alternately](https://github.com/RayenGhanems/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/RayenGhanems/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RayenGhanems/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/RayenGhanems/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/RayenGhanems/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
@@ -294,6 +296,7 @@ Upload daily leetcode questions
 | [0643-maximum-average-subarray-i](https://github.com/RayenGhanems/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RayenGhanems/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RayenGhanems/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/RayenGhanems/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Monotonic Stack
 |  |
 | ------- |
