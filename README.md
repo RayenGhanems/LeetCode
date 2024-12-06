@@ -40,6 +40,7 @@ Upload daily leetcode questions
 | [2306-create-binary-tree-from-descriptions](https://github.com/RayenGhanems/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RayenGhanems/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ Upload daily leetcode questions
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RayenGhanems/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RayenGhanems/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ Upload daily leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RayenGhanems/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RayenGhanems/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +99,7 @@ Upload daily leetcode questions
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +110,7 @@ Upload daily leetcode questions
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RayenGhanems/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/RayenGhanems/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
