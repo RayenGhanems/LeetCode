@@ -45,6 +45,7 @@ Upload daily leetcode questions
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/RayenGhanems/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RayenGhanems/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Upload daily leetcode questions
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3430-count-days-without-meetings](https://github.com/RayenGhanems/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
 | ------- |
