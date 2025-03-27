@@ -43,6 +43,7 @@ Upload daily leetcode questions
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RayenGhanems/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/RayenGhanems/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3430-count-days-without-meetings](https://github.com/RayenGhanems/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RayenGhanems/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -70,6 +71,7 @@ Upload daily leetcode questions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RayenGhanems/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/RayenGhanems/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Upload daily leetcode questions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/RayenGhanems/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/RayenGhanems/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
