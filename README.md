@@ -144,6 +144,7 @@ Upload daily leetcode questions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RayenGhanems/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/RayenGhanems/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -307,6 +308,7 @@ Upload daily leetcode questions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RayenGhanems/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Design
 |  |
