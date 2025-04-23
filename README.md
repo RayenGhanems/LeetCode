@@ -66,6 +66,7 @@ Upload daily leetcode questions
 | [1160-letter-tile-possibilities](https://github.com/RayenGhanems/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RayenGhanems/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1500-count-largest-group](https://github.com/RayenGhanems/LeetCode/tree/master/1500-count-largest-group) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RayenGhanems/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -219,6 +220,7 @@ Upload daily leetcode questions
 | [0670-maximum-swap](https://github.com/RayenGhanems/LeetCode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
+| [1500-count-largest-group](https://github.com/RayenGhanems/LeetCode/tree/master/1500-count-largest-group) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RayenGhanems/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/RayenGhanems/LeetCode/tree/master/2998-count-symmetric-integers) |
