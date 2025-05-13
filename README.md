@@ -82,6 +82,7 @@ Upload daily leetcode questions
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RayenGhanems/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/RayenGhanems/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Upload daily leetcode questions
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RayenGhanems/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/RayenGhanems/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Upload daily leetcode questions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RayenGhanems/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/RayenGhanems/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +245,7 @@ Upload daily leetcode questions
 | [2262-solving-questions-with-brainpower](https://github.com/RayenGhanems/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RayenGhanems/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,6 +305,7 @@ Upload daily leetcode questions
 | [1160-letter-tile-possibilities](https://github.com/RayenGhanems/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RayenGhanems/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Brainteaser
 |  |
 | ------- |
