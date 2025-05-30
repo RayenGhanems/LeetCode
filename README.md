@@ -213,6 +213,7 @@ Upload daily leetcode questions
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RayenGhanems/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RayenGhanems/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RayenGhanems/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/RayenGhanems/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -268,6 +269,7 @@ Upload daily leetcode questions
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RayenGhanems/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/RayenGhanems/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2803-modify-graph-edge-weights](https://github.com/RayenGhanems/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RayenGhanems/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
