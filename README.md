@@ -23,6 +23,7 @@ Upload daily leetcode questions
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RayenGhanems/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RayenGhanems/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RayenGhanems/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RayenGhanems/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -269,6 +270,7 @@ Upload daily leetcode questions
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RayenGhanems/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RayenGhanems/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RayenGhanems/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2803-modify-graph-edge-weights](https://github.com/RayenGhanems/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RayenGhanems/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -398,4 +400,8 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RayenGhanems/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RayenGhanems/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
