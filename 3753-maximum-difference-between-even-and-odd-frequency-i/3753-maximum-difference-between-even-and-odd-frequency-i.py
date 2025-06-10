@@ -1,6 +1,6 @@
 class Solution:
     def maxDifference(self, st: str) -> int:
-        me,mo=len(st),0
+        me,mo=inf,0
         s = set(st)
         for i in s:
             m = st.count(i)
