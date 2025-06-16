@@ -39,6 +39,7 @@ Upload daily leetcode questions
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RayenGhanems/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RayenGhanems/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/RayenGhanems/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RayenGhanems/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/RayenGhanems/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
