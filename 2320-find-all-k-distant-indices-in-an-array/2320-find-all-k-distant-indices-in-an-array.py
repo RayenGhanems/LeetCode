@@ -1,15 +1,14 @@
 class Solution:
     def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
-        l = set()
-        for i in range(len(nums)):
-            if nums[i]== key:
-                l.add(i)
-                for j in range(k+1):
-                    if i-j>=0:
-                        l.add(i-j)
-                    if j+i<len(nums):
-                        l.add(i+j)
-
-        return list(l)
+        res = []
+        r = 0  # unjudged minimum index
+        n = len(nums)
+        for j in range(n):
+            if nums[j] == key:
+                l = max(r, j - k)
+                r = min(n - 1, j + k) + 1
+                for i in range(l, r):
+                    res.append(i)
+        return res
 
         
