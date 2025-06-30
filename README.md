@@ -15,6 +15,7 @@ Upload daily leetcode questions
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/RayenGhanems/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RayenGhanems/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0906-walking-robot-simulation](https://github.com/RayenGhanems/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -69,6 +70,7 @@ Upload daily leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/RayenGhanems/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/RayenGhanems/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RayenGhanems/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RayenGhanems/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -122,6 +124,7 @@ Upload daily leetcode questions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1256-rank-transform-of-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -320,6 +323,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RayenGhanems/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/RayenGhanems/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RayenGhanems/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -367,6 +371,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/RayenGhanems/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/RayenGhanems/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RayenGhanems/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RayenGhanems/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
