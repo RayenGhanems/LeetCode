@@ -66,6 +66,7 @@ Upload daily leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RayenGhanems/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -175,6 +176,7 @@ Upload daily leetcode questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RayenGhanems/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/RayenGhanems/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/RayenGhanems/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -248,6 +250,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RayenGhanems/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
