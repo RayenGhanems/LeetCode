@@ -1,7 +1,7 @@
 class Solution:
     def maximumLength(self, nums: List[int]) -> int:
         cnt1 = sum(1 for x in nums if x % 2 == 0)
-        cnt2 = sum(1 for x in nums if x % 2 == 1)
+        cnt2 = len(nums)-cnt1
 
         eve = odd = 0
         for x in nums:
