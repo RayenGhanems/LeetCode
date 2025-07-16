@@ -1,16 +1,16 @@
 class Solution:
     def maximumLength(self, nums: List[int]) -> int:
-        cnt1 = sum(1 for x in nums if x % 2 == 0)
-        cnt2 = len(nums)-cnt1
+        even = sum(1 for x in nums if x % 2 == 0)
+        odd = len(nums)-even
 
-        eve = odd = 0
-        for x in nums:
-            if x % 2 == 0:
-                eve = max(eve, odd + 1)
+        eve, od = 0,0
+        for i in nums:
+            if i %2 ==0:
+                eve = max(eve,od+1)
             else:
-                odd = max(odd, eve + 1)
+                od = max(od, eve+1)
 
-        return max(cnt1, cnt2, eve, odd)
+        return max(even, odd, eve, od)
 
                     
 
