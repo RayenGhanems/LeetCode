@@ -38,6 +38,7 @@ Upload daily leetcode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/RayenGhanems/LeetCode/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/RayenGhanems/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RayenGhanems/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RayenGhanems/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -86,6 +87,7 @@ Upload daily leetcode questions
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/RayenGhanems/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RayenGhanems/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RayenGhanems/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -389,6 +391,7 @@ Upload daily leetcode questions
 | [0643-maximum-average-subarray-i](https://github.com/RayenGhanems/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RayenGhanems/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RayenGhanems/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1813-maximum-erasure-value](https://github.com/RayenGhanems/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/RayenGhanems/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RayenGhanems/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
