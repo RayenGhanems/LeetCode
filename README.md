@@ -7,6 +7,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/RayenGhanems/LeetCode/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/RayenGhanems/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RayenGhanems/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -274,6 +275,7 @@ Upload daily leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/RayenGhanems/LeetCode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
