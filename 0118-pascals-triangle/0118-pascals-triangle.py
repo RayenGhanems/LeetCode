@@ -1,12 +1,12 @@
 class Solution:
     def generate(self, n: int) -> List[List[int]]:
-        out = [[1],[1,1]]
-        if n <3:
-            return out[:n]
+        out = [[1]]
+        if n <2:
+            return out
         
         last =out[-1]
         
-        for i in range(n-2):
+        for i in range(n-1):
             new =[]
             for j in range(len(last)):
                 if j ==0:
