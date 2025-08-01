@@ -4,7 +4,7 @@ class Solution:
         if n <2:
             return out
         
-        last =out[-1]
+        last =[1]
         
         for i in range(n-1):
             new =[]
@@ -16,7 +16,6 @@ class Solution:
             new.append(1)
             last = new
             out.append(new)
-        print(out)
         return out
                 
 
