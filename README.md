@@ -268,6 +268,7 @@ Upload daily leetcode questions
 | [0009-palindrome-number](https://github.com/RayenGhanems/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/RayenGhanems/LeetCode/tree/master/0326-power-of-three) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/RayenGhanems/LeetCode/tree/master/0670-maximum-swap) |
@@ -368,6 +369,7 @@ Upload daily leetcode questions
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/RayenGhanems/LeetCode/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/RayenGhanems/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 ## Memoization
 |  |
