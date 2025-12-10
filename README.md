@@ -67,6 +67,7 @@ Upload daily leetcode questions
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RayenGhanems/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RayenGhanems/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RayenGhanems/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RayenGhanems/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -283,6 +284,7 @@ Upload daily leetcode questions
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RayenGhanems/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/RayenGhanems/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RayenGhanems/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -370,6 +372,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RayenGhanems/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -456,6 +459,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RayenGhanems/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Number Theory
 |  |
 | ------- |
