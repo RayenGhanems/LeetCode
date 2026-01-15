@@ -6,6 +6,7 @@ Upload daily leetcode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RayenGhanems/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/RayenGhanems/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ Upload daily leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RayenGhanems/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RayenGhanems/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
