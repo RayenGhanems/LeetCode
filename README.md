@@ -8,6 +8,7 @@ Upload daily leetcode questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/RayenGhanems/LeetCode/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RayenGhanems/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RayenGhanems/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -80,6 +81,7 @@ Upload daily leetcode questions
 | ------- |
 | [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RayenGhanems/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -142,6 +144,7 @@ Upload daily leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
