@@ -10,6 +10,7 @@ Upload daily leetcode questions
 | [0118-pascals-triangle](https://github.com/RayenGhanems/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RayenGhanems/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RayenGhanems/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RayenGhanems/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -82,6 +83,7 @@ Upload daily leetcode questions
 | [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RayenGhanems/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -134,6 +136,7 @@ Upload daily leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RayenGhanems/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -145,6 +148,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -277,6 +281,7 @@ Upload daily leetcode questions
 | [0009-palindrome-number](https://github.com/RayenGhanems/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RayenGhanems/LeetCode/tree/master/0326-power-of-three) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -356,6 +361,7 @@ Upload daily leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RayenGhanems/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RayenGhanems/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
