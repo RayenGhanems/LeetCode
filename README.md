@@ -8,6 +8,7 @@ Upload daily leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/RayenGhanems/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/RayenGhanems/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/RayenGhanems/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RayenGhanems/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -280,6 +281,7 @@ Upload daily leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RayenGhanems/LeetCode/tree/master/0048-rotate-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RayenGhanems/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RayenGhanems/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -290,6 +292,7 @@ Upload daily leetcode questions
 | ------- |
 | [0009-palindrome-number](https://github.com/RayenGhanems/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/RayenGhanems/LeetCode/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RayenGhanems/LeetCode/tree/master/0326-power-of-three) |
