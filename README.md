@@ -77,6 +77,7 @@ Upload daily leetcode questions
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RayenGhanems/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RayenGhanems/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -140,6 +141,7 @@ Upload daily leetcode questions
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/RayenGhanems/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RayenGhanems/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
@@ -150,6 +152,7 @@ Upload daily leetcode questions
 | [1046-max-consecutive-ones-iii](https://github.com/RayenGhanems/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RayenGhanems/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RayenGhanems/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
@@ -175,6 +178,7 @@ Upload daily leetcode questions
 | [2888-minimum-index-of-a-valid-split](https://github.com/RayenGhanems/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RayenGhanems/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/RayenGhanems/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Greedy
 |  |
@@ -191,6 +195,7 @@ Upload daily leetcode questions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RayenGhanems/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/RayenGhanems/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RayenGhanems/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
