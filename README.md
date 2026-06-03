@@ -9,6 +9,7 @@ Upload daily leetcode questions
 | [0001-two-sum](https://github.com/RayenGhanems/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RayenGhanems/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/RayenGhanems/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/RayenGhanems/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/RayenGhanems/LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/RayenGhanems/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RayenGhanems/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -298,6 +299,7 @@ Upload daily leetcode questions
 | [0009-palindrome-number](https://github.com/RayenGhanems/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RayenGhanems/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RayenGhanems/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/RayenGhanems/LeetCode/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RayenGhanems/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RayenGhanems/LeetCode/tree/master/0326-power-of-three) |
