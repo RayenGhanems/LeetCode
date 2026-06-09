@@ -80,6 +80,7 @@ Upload daily leetcode questions
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RayenGhanems/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RayenGhanems/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RayenGhanems/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -197,6 +198,7 @@ Upload daily leetcode questions
 | [3195-separate-black-and-white-balls](https://github.com/RayenGhanems/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RayenGhanems/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RayenGhanems/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
