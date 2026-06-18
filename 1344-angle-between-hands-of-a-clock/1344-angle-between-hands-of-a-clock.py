@@ -9,6 +9,5 @@ class Solution:
         '''
         h_angle = (360/12)*h
         m_angle = (360/60)*minutes
-        print(h_angle)
-        print(m_angle)
+
         return min(abs(h_angle - m_angle), 360 - abs(h_angle - m_angle))
