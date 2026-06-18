@@ -1,7 +1,7 @@
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:
-        hour = hour%12
-        h = hour + minutes/60
+        
+        h = hour%12 + minutes/60
         '''
         the clock is composed of 12 h so in degrees it is 360/12 for each hour exact
         while for minutes it is devided into 60 so 360/60
