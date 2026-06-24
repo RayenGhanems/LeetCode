@@ -9,9 +9,13 @@ class Solution:
         while head != None:
             l.append(head.val)
             head = head.next
-        out = l[0]+ l[-1]
-        for i in range(1,int(len(l)/2)):
-            out = max(out, l[i]+l[-(i+1)])
-        return out
+        n=len(l)  ## which is an even number
+        l = [a + b for a, b in zip(l[:n//2], l[n//2:][::-1])]
+        return max(l)
+
+        # out = l[0]+ l[-1]
+        # for i in range(1,int(len(l)/2)):
+        #     out = max(out, l[i]+l[-(i+1)])
+        # return out
         
         
