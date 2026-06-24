@@ -10,7 +10,7 @@ class Solution:
             l.append(head.val)
             head = head.next
         out = l[0]+ l[-1]
-        for i in range(int(len(l)/2)):
+        for i in range(1,int(len(l)/2)):
             out = max(out, l[i]+l[-(i+1)])
         return out
         
