@@ -10,7 +10,8 @@ class Solution:
             l.append(head.val)
             head = head.next
         n=len(l)  ## which is an even number
-        return max(l[i] + l[n - 1 - i] for i in range(n // 2))
+        l = [a + b for a, b in zip(l[:n//2], l[n//2:][::-1])]
+        return max(l)
 
         # out = l[0]+ l[-1]
         # for i in range(1,int(len(l)/2)):
