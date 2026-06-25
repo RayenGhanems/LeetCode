@@ -83,6 +83,7 @@ Upload daily leetcode questions
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RayenGhanems/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RayenGhanems/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -126,6 +127,7 @@ Upload daily leetcode questions
 | [2888-minimum-index-of-a-valid-split](https://github.com/RayenGhanems/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/RayenGhanems/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RayenGhanems/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -358,6 +360,7 @@ Upload daily leetcode questions
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/RayenGhanems/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RayenGhanems/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -413,6 +416,7 @@ Upload daily leetcode questions
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/RayenGhanems/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RayenGhanems/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Brainteaser
 |  |
@@ -473,6 +477,7 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -517,6 +522,7 @@ Upload daily leetcode questions
 ## Segment Tree
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RayenGhanems/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -532,4 +538,8 @@ Upload daily leetcode questions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RayenGhanems/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
