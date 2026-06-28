@@ -1,17 +1,10 @@
-class Solution(object):
-    def maximumElementAfterDecrementingAndRearranging(self, arr):
-        """
-        :type arr: List[int]
-        :rtype: int
-        """
-        if len(arr)==1:
-            return 1
+class Solution:
+    def maximumElementAfterDecrementingAndRearranging(self, arr: List[int]) -> int:
         arr.sort()
-        arr[0]=1
-        left = 1
-        for right in arr[1:]:
-            if (right - left) >1:
-                right =left +1
-            left = right
-        return right
+        arr[0] = 1
+        j = 1
+        for i in arr[1:]:
+            if i >= j+1:
+                j +=1
+        return j 
         
