@@ -50,6 +50,7 @@ Upload daily leetcode questions
 | [1798-max-number-of-k-sum-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/RayenGhanems/LeetCode/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/RayenGhanems/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RayenGhanems/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RayenGhanems/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RayenGhanems/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -179,6 +180,7 @@ Upload daily leetcode questions
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RayenGhanems/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RayenGhanems/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RayenGhanems/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RayenGhanems/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RayenGhanems/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -201,6 +203,7 @@ Upload daily leetcode questions
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RayenGhanems/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RayenGhanems/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RayenGhanems/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RayenGhanems/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/RayenGhanems/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RayenGhanems/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
