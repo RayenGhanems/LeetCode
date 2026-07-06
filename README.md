@@ -32,6 +32,7 @@ Upload daily leetcode questions
 | [1240-stone-game-ii](https://github.com/RayenGhanems/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RayenGhanems/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/RayenGhanems/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1325-path-with-maximum-probability](https://github.com/RayenGhanems/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RayenGhanems/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/RayenGhanems/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -175,6 +176,7 @@ Upload daily leetcode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1256-rank-transform-of-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1288-remove-covered-intervals](https://github.com/RayenGhanems/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RayenGhanems/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RayenGhanems/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RayenGhanems/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
