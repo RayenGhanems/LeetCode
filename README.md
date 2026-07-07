@@ -338,6 +338,7 @@ Upload daily leetcode questions
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RayenGhanems/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RayenGhanems/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
