@@ -1,16 +1,14 @@
 class Solution:
-    def sequentialDigits(self, low, high):
-        a = []
+    def sequentialDigits(self, low: int, high: int) -> List[int]:
+        out = []
 
-        for i in range(1, 10):
-            num = i
-            next_digit = i + 1
+        s = "123456789"
+        l, h = str(low), str(high)
 
-            while num <= high and next_digit <= 9:
-                num = num * 10 + next_digit
+        for length in range(len(l), len(h) + 1):
+            for start in range(0, 10 - length):
+                num = int(s[start:start + length])
                 if low <= num <= high:
-                    a.append(num)
-                next_digit += 1
+                    out.append(num)
 
-        a.sort()
-        return a
+        return out
