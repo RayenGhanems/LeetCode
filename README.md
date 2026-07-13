@@ -513,6 +513,7 @@ Upload daily leetcode questions
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/RayenGhanems/LeetCode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/RayenGhanems/LeetCode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RayenGhanems/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/RayenGhanems/LeetCode/tree/master/2998-count-symmetric-integers) |
