@@ -82,6 +82,7 @@ Upload daily leetcode questions
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RayenGhanems/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RayenGhanems/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RayenGhanems/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RayenGhanems/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RayenGhanems/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -339,6 +340,7 @@ Upload daily leetcode questions
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RayenGhanems/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/RayenGhanems/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RayenGhanems/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RayenGhanems/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/RayenGhanems/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RayenGhanems/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -417,6 +419,7 @@ Upload daily leetcode questions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RayenGhanems/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RayenGhanems/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RayenGhanems/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RayenGhanems/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
 | ------- |
