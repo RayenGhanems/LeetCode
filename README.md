@@ -24,6 +24,7 @@ Upload daily leetcode questions
 | [0496-next-greater-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/RayenGhanems/LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RayenGhanems/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/RayenGhanems/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0906-walking-robot-simulation](https://github.com/RayenGhanems/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/RayenGhanems/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -178,6 +179,7 @@ Upload daily leetcode questions
 | [0347-top-k-frequent-elements](https://github.com/RayenGhanems/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RayenGhanems/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/RayenGhanems/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RayenGhanems/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1288-remove-covered-intervals](https://github.com/RayenGhanems/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RayenGhanems/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -328,6 +330,7 @@ Upload daily leetcode questions
 | [0268-missing-number](https://github.com/RayenGhanems/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RayenGhanems/LeetCode/tree/master/0326-power-of-three) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RayenGhanems/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RayenGhanems/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/RayenGhanems/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/RayenGhanems/LeetCode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RayenGhanems/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
