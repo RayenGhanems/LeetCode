@@ -90,6 +90,7 @@ Upload daily leetcode questions
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3689-maximum-total-subarray-value-i](https://github.com/RayenGhanems/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/RayenGhanems/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RayenGhanems/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -136,6 +137,7 @@ Upload daily leetcode questions
 | [2915-count-of-interesting-subarrays](https://github.com/RayenGhanems/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RayenGhanems/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RayenGhanems/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3731-find-missing-elements](https://github.com/RayenGhanems/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RayenGhanems/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/RayenGhanems/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RayenGhanems/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -203,6 +205,7 @@ Upload daily leetcode questions
 | [3430-count-days-without-meetings](https://github.com/RayenGhanems/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RayenGhanems/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/RayenGhanems/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/RayenGhanems/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
